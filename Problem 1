@@ -1,0 +1,12 @@
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        Console.Write("Input the string: ");
+        string inputString = Console.ReadLine();
+
+        Console.WriteLine("The string you entered is: " + inputString);
+    }
+}
